@@ -25,9 +25,3 @@ To run this project locally:
    ```
 
 2. Open `index.html` in your browser
-
-## Author
-
-Troy Demafeliz
-
-- GitHub: [@troy-demafeliz](https://github.com/troy-demafeliz)
